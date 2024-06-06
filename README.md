@@ -2,7 +2,7 @@
 
 ### [dontkillmyapp.com](https://dontkillmyapp.com)
 
-## What is this about?
+## What is this about?.
 
 Smartphones are getting more and more powerful, but the battery capacity is lagging behind. Vendors are always trying to squeeze some battery saving features into the firmware with each new Android release.
 
